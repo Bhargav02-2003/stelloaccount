@@ -1,0 +1,19 @@
+.Mains{
+    width:100%;
+    height: 90vh;
+    /* background-color: rgb(247, 241, 234); */
+    border-radius: 8px;
+    /* border: 2px solid red; */
+}
+.box{
+    list-style: none;
+width: 93%;
+
+}
+#head{
+    height: 20px;
+    margin-left: 40px;
+    width: 90%;
+    text-align: left;
+   
+}

@@ -1,0 +1,49 @@
+.main{
+    /* border: 2px solid red; */
+    padding: 0px;
+    width: 100%;
+    margin: 0px;
+}
+#profile{
+    width: 90%;
+    display: flex;
+    align-items: center;
+    gap: 30px;
+ 
+    /* padding: 0px;
+    margin: 0px; */
+   
+}
+
+
+
+#profile img{
+    margin-left: 10px;
+    width: 70px;
+    height: 70px;
+    /* background-position: center;
+    background-image: url("https://blog.hubspot.com/hs-fs/hubfs/employee-retention-rate.jpg?width=595&height=400&name=employee-retention-rate.jpg"); */
+    /* background-color: black;  */
+    border-radius: 50%;
+}
+#Txt{
+    line-height: 10px;
+    /* border: 2px solid red; */
+
+}
+
+#btn{
+    position: relative;
+    min-width: 80%;
+    
+    gap: 20px;
+    /* font-weight: 550; */
+    display: flex;
+    flex-direction: row;
+   padding-top: 10px;
+    border-bottom: 2px solid black;
+    padding-bottom: 30px;
+}
+#btn button{
+    box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.2); 
+}
